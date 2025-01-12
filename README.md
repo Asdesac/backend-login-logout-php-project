@@ -1,7 +1,7 @@
 # backend-login-logout-php-project
 
 # PHP Membership System
-![Alt text](readme-image/welcome.jpg)
+![Alt text](readme-image/welcome.png)
 This project is a simple membership system built using PHP and MySQL.
 It allows users to register, log in, and log out. The system includes basic functionality for user management and session handling.
 
