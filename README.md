@@ -1,7 +1,7 @@
 # backend-login-logout-php-project
 
 # PHP Membership System
-
+![Alt text](readme-image/welcome.jpg)
 This project is a simple membership system built using PHP and MySQL.
 It allows users to register, log in, and log out. The system includes basic functionality for user management and session handling.
 
@@ -53,14 +53,19 @@ next.......
 Start your web server and navigate to index.php in your browser.
 You can register a new user via the signup page and then log in
 next.....
+
 File Descriptions
 connection.php: Establishes a connection to the MySQL database.
+
 index.php: The login page where users can enter their credentials.
 login.php: Processes the login form submission and checks the credentials against the database.
+
 signup.php: The registration page for new users to create an account.
+
 welcome.php: Displays a welcome message upon successful login and includes a logout button.
 directing.php: A landing page that provides navigation to the login and signup pages.
 CSS Files: Stylesheets for different pages to enhance the user interface.
+
 Contributing
 Contributions are welcome! If you have suggestions for improvements, please fork the repository and submit a pull request.
 
